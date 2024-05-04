@@ -1,0 +1,58 @@
+[
+  {
+    "name": "fulano",
+    "me": true,
+    "time": "ontem",
+    "isViewed": false,
+    "type": "voice"
+  },
+  {
+    "name": "ciclano",
+    "me": true,
+    "time": "ontem",
+    "isViewed": true,
+    "type": "voice"
+  },
+  {
+    "name": "beltrano",
+    "me": false,
+    "time": "ontem",
+    "isViewed": false,
+    "type": "video"
+  },
+  {
+    "name": "to sem ideia",
+    "me": true,
+    "time": "ontem",
+    "isViewed": false,
+    "type": "voice"
+  },
+  {
+    "name": "uadaue",
+    "me": true,
+    "time": "ontem",
+    "isViewed": true,
+    "type": "video"
+  },
+  {
+    "name": "ueueuue",
+    "me": false,
+    "time": "ontem",
+    "isViewed": false,
+    "type": "video"
+  },
+  {
+    "name": "sim",
+    "me": true,
+    "time": "ontem",
+    "isViewed": true,
+    "type": "video"
+  },
+  {
+    "name": "concordo",
+    "me": false,
+    "time": "ontem",
+    "isViewed": false,
+    "type": "voice"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "fulano 1",
+    "lastMessage": "hello world",
+    "time" : "ontem",
+    "isViewed": false,
+    "amountNewMessages": 3
+  },
+  {
+    "name": "fulano 2",
+    "lastMessage": "hello world",
+    "time" : "ontem",
+    "isViewed": true,
+    "amountNewMessages": 1
+  },
+  {
+    "name": "fulano 3",
+    "lastMessage": "hello world",
+    "time" : "ontem",
+    "isViewed": false,
+    "amountNewMessages": 4
+  },
+  {
+    "name": "fulano 4",
+    "lastMessage": "hello world",
+    "time" : "ontem",
+    "isViewed": false,
+    "amountNewMessages": 1
+  }
+]
